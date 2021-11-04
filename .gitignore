@@ -1,0 +1,418 @@
+
+Source code of this book/appa.ipynb
+
+Source code of this book/ch02.ipynb
+
+Source code of this book/ch03.ipynb
+
+Source code of this book/ch04.ipynb
+
+Source code of this book/ch05.ipynb
+
+Source code of this book/ch06.ipynb
+
+Source code of this book/ch07.ipynb
+
+Source code of this book/ch08.ipynb
+
+Source code of this book/ch09.ipynb
+
+Source code of this book/ch10.ipynb
+
+Source code of this book/ch11.ipynb
+
+Source code of this book/ch12.ipynb
+
+Source code of this book/ch13.ipynb
+
+Source code of this book/ch14.ipynb
+
+Source code of this book/COPYING
+
+Source code of this book/datasets/babynames/NationalReadMe.pdf
+
+Source code of this book/datasets/babynames/yob1880.txt
+
+Source code of this book/datasets/babynames/yob1881.txt
+
+Source code of this book/datasets/babynames/yob1882.txt
+
+Source code of this book/datasets/babynames/yob1883.txt
+
+Source code of this book/datasets/babynames/yob1884.txt
+
+Source code of this book/datasets/babynames/yob1885.txt
+
+Source code of this book/datasets/babynames/yob1886.txt
+
+Source code of this book/datasets/babynames/yob1887.txt
+
+Source code of this book/datasets/babynames/yob1888.txt
+
+Source code of this book/datasets/babynames/yob1889.txt
+
+Source code of this book/datasets/babynames/yob1890.txt
+
+Source code of this book/datasets/babynames/yob1891.txt
+
+Source code of this book/datasets/babynames/yob1892.txt
+
+Source code of this book/datasets/babynames/yob1893.txt
+
+Source code of this book/datasets/babynames/yob1894.txt
+
+Source code of this book/datasets/babynames/yob1895.txt
+
+Source code of this book/datasets/babynames/yob1896.txt
+
+Source code of this book/datasets/babynames/yob1897.txt
+
+Source code of this book/datasets/babynames/yob1898.txt
+
+Source code of this book/datasets/babynames/yob1899.txt
+
+Source code of this book/datasets/babynames/yob1900.txt
+
+Source code of this book/datasets/babynames/yob1901.txt
+
+Source code of this book/datasets/babynames/yob1902.txt
+
+Source code of this book/datasets/babynames/yob1903.txt
+
+Source code of this book/datasets/babynames/yob1904.txt
+
+Source code of this book/datasets/babynames/yob1905.txt
+
+Source code of this book/datasets/babynames/yob1906.txt
+
+Source code of this book/datasets/babynames/yob1907.txt
+
+Source code of this book/datasets/babynames/yob1908.txt
+
+Source code of this book/datasets/babynames/yob1909.txt
+
+Source code of this book/datasets/babynames/yob1910.txt
+
+Source code of this book/datasets/babynames/yob1911.txt
+
+Source code of this book/datasets/babynames/yob1912.txt
+
+Source code of this book/datasets/babynames/yob1913.txt
+
+Source code of this book/datasets/babynames/yob1914.txt
+
+Source code of this book/datasets/babynames/yob1915.txt
+
+Source code of this book/datasets/babynames/yob1916.txt
+
+Source code of this book/datasets/babynames/yob1917.txt
+
+Source code of this book/datasets/babynames/yob1918.txt
+
+Source code of this book/datasets/babynames/yob1919.txt
+
+Source code of this book/datasets/babynames/yob1920.txt
+
+Source code of this book/datasets/babynames/yob1921.txt
+
+Source code of this book/datasets/babynames/yob1922.txt
+
+Source code of this book/datasets/babynames/yob1923.txt
+
+Source code of this book/datasets/babynames/yob1924.txt
+
+Source code of this book/datasets/babynames/yob1925.txt
+
+Source code of this book/datasets/babynames/yob1926.txt
+
+Source code of this book/datasets/babynames/yob1927.txt
+
+Source code of this book/datasets/babynames/yob1928.txt
+
+Source code of this book/datasets/babynames/yob1929.txt
+
+Source code of this book/datasets/babynames/yob1930.txt
+
+Source code of this book/datasets/babynames/yob1931.txt
+
+Source code of this book/datasets/babynames/yob1932.txt
+
+Source code of this book/datasets/babynames/yob1933.txt
+
+Source code of this book/datasets/babynames/yob1934.txt
+
+Source code of this book/datasets/babynames/yob1935.txt
+
+Source code of this book/datasets/babynames/yob1936.txt
+
+Source code of this book/datasets/babynames/yob1937.txt
+
+Source code of this book/datasets/babynames/yob1938.txt
+
+Source code of this book/datasets/babynames/yob1939.txt
+
+Source code of this book/datasets/babynames/yob1940.txt
+
+Source code of this book/datasets/babynames/yob1941.txt
+
+Source code of this book/datasets/babynames/yob1942.txt
+
+Source code of this book/datasets/babynames/yob1943.txt
+
+Source code of this book/datasets/babynames/yob1944.txt
+
+Source code of this book/datasets/babynames/yob1945.txt
+
+Source code of this book/datasets/babynames/yob1946.txt
+
+Source code of this book/datasets/babynames/yob1947.txt
+
+Source code of this book/datasets/babynames/yob1948.txt
+
+Source code of this book/datasets/babynames/yob1949.txt
+
+Source code of this book/datasets/babynames/yob1950.txt
+
+Source code of this book/datasets/babynames/yob1951.txt
+
+Source code of this book/datasets/babynames/yob1952.txt
+
+Source code of this book/datasets/babynames/yob1953.txt
+
+Source code of this book/datasets/babynames/yob1954.txt
+
+Source code of this book/datasets/babynames/yob1955.txt
+
+Source code of this book/datasets/babynames/yob1956.txt
+
+Source code of this book/datasets/babynames/yob1957.txt
+
+Source code of this book/datasets/babynames/yob1958.txt
+
+Source code of this book/datasets/babynames/yob1959.txt
+
+Source code of this book/datasets/babynames/yob1960.txt
+
+Source code of this book/datasets/babynames/yob1961.txt
+
+Source code of this book/datasets/babynames/yob1962.txt
+
+Source code of this book/datasets/babynames/yob1963.txt
+
+Source code of this book/datasets/babynames/yob1964.txt
+
+Source code of this book/datasets/babynames/yob1965.txt
+
+Source code of this book/datasets/babynames/yob1966.txt
+
+Source code of this book/datasets/babynames/yob1967.txt
+
+Source code of this book/datasets/babynames/yob1968.txt
+
+Source code of this book/datasets/babynames/yob1969.txt
+
+Source code of this book/datasets/babynames/yob1970.txt
+
+Source code of this book/datasets/babynames/yob1971.txt
+
+Source code of this book/datasets/babynames/yob1972.txt
+
+Source code of this book/datasets/babynames/yob1973.txt
+
+Source code of this book/datasets/babynames/yob1974.txt
+
+Source code of this book/datasets/babynames/yob1975.txt
+
+Source code of this book/datasets/babynames/yob1976.txt
+
+Source code of this book/datasets/babynames/yob1977.txt
+
+Source code of this book/datasets/babynames/yob1978.txt
+
+Source code of this book/datasets/babynames/yob1979.txt
+
+Source code of this book/datasets/babynames/yob1980.txt
+
+Source code of this book/datasets/babynames/yob1981.txt
+
+Source code of this book/datasets/babynames/yob1982.txt
+
+Source code of this book/datasets/babynames/yob1983.txt
+
+Source code of this book/datasets/babynames/yob1984.txt
+
+Source code of this book/datasets/babynames/yob1985.txt
+
+Source code of this book/datasets/babynames/yob1986.txt
+
+Source code of this book/datasets/babynames/yob1987.txt
+
+Source code of this book/datasets/babynames/yob1988.txt
+
+Source code of this book/datasets/babynames/yob1989.txt
+
+Source code of this book/datasets/babynames/yob1990.txt
+
+Source code of this book/datasets/babynames/yob1991.txt
+
+Source code of this book/datasets/babynames/yob1992.txt
+
+Source code of this book/datasets/babynames/yob1993.txt
+
+Source code of this book/datasets/babynames/yob1994.txt
+
+Source code of this book/datasets/babynames/yob1995.txt
+
+Source code of this book/datasets/babynames/yob1996.txt
+
+Source code of this book/datasets/babynames/yob1997.txt
+
+Source code of this book/datasets/babynames/yob1998.txt
+
+Source code of this book/datasets/babynames/yob1999.txt
+
+Source code of this book/datasets/babynames/yob2000.txt
+
+Source code of this book/datasets/babynames/yob2001.txt
+
+Source code of this book/datasets/babynames/yob2002.txt
+
+Source code of this book/datasets/babynames/yob2003.txt
+
+Source code of this book/datasets/babynames/yob2004.txt
+
+Source code of this book/datasets/babynames/yob2005.txt
+
+Source code of this book/datasets/babynames/yob2006.txt
+
+Source code of this book/datasets/babynames/yob2007.txt
+
+Source code of this book/datasets/babynames/yob2008.txt
+
+Source code of this book/datasets/babynames/yob2009.txt
+
+Source code of this book/datasets/babynames/yob2010.txt
+
+Source code of this book/datasets/bitly_usagov/example.txt
+
+Source code of this book/datasets/fec/P00000001-ALL.csv
+
+Source code of this book/datasets/haiti/Haiti.csv
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads_README.txt
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads_sample.jpg
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads.dbf
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads.prj
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads.sbn
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads.sbx
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads.shp
+
+Source code of this book/datasets/haiti/PortAuPrince_Roads/PortAuPrince_Roads.shx
+
+Source code of this book/datasets/movielens/movies.dat
+
+Source code of this book/datasets/movielens/ratings.dat
+
+Source code of this book/datasets/movielens/README
+
+Source code of this book/datasets/movielens/users.dat
+
+Source code of this book/datasets/mta_perf/parse.py
+
+Source code of this book/datasets/mta_perf/Performance_LIBUS.xml
+
+Source code of this book/datasets/mta_perf/Performance_LIBUS.xsd
+
+Source code of this book/datasets/mta_perf/Performance_LIRR.xml
+
+Source code of this book/datasets/mta_perf/Performance_LIRR.xsd
+
+Source code of this book/datasets/mta_perf/Performance_MNR.xml
+
+Source code of this book/datasets/mta_perf/Performance_MNR.xsd
+
+Source code of this book/datasets/mta_perf/Performance_MTABUS.xml
+
+Source code of this book/datasets/mta_perf/Performance_MTABUS.xsd
+
+Source code of this book/datasets/mta_perf/Performance_NYCT.xml
+
+Source code of this book/datasets/mta_perf/Performance_NYCT.xsd
+
+Source code of this book/datasets/mta_perf/Performance_TBTA.xml
+
+Source code of this book/datasets/mta_perf/Performance_TBTA.xsd
+
+Source code of this book/datasets/titanic/genderclassmodel.csv
+
+Source code of this book/datasets/titanic/gendermodel.csv
+
+Source code of this book/datasets/titanic/test.csv
+
+Source code of this book/datasets/titanic/train.csv
+
+Source code of this book/datasets/usda_food/database.json
+
+Source code of this book/examples/array_ex.txt
+
+Source code of this book/examples/csv_mindex.csv
+
+Source code of this book/examples/ex1.csv
+
+Source code of this book/examples/ex1.xlsx
+
+Source code of this book/examples/ex2.csv
+
+Source code of this book/examples/ex3.csv
+
+Source code of this book/examples/ex3.txt
+
+Source code of this book/examples/ex4.csv
+
+Source code of this book/examples/ex5.csv
+
+Source code of this book/examples/ex6.csv
+
+Source code of this book/examples/ex7.csv
+
+Source code of this book/examples/example.json
+
+Source code of this book/examples/fdic_failed_bank_list.html
+
+Source code of this book/examples/ipython_bug.py
+
+Source code of this book/examples/macrodata.csv
+
+Source code of this book/examples/out.csv
+
+Source code of this book/examples/segismundo.txt
+
+Source code of this book/examples/spx.csv
+
+Source code of this book/examples/stinkbug.png
+
+Source code of this book/examples/stock_px_2.csv
+
+Source code of this book/examples/stock_px.csv
+
+Source code of this book/examples/test_file.csv
+
+Source code of this book/examples/tips.csv
+
+Source code of this book/examples/tseries.csv
+
+Source code of this book/examples/volume.csv
+
+Source code of this book/examples/yahoo_price.pkl
+
+Source code of this book/examples/yahoo_volume.pkl
+
+Source code of this book/README.md
+
+Source code of this book/requirements.txt
